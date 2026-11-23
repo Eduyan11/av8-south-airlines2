@@ -1,0 +1,2 @@
+# AV8 SOUTH Airlines
+Fictional school-event check-in prototype. Run `npm install`, then `npm run dev`. Build with `npm run build`. This starter uses browser-local demo data; Supabase is not connected yet. Never put service-role keys in frontend code.
